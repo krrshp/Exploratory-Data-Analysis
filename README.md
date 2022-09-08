@@ -8,14 +8,15 @@ Data Visualization is the process of analyzing data in the form of graphs or map
 
 Univariate analysis: This type of data consists of only one variable. The analysis of univariate data is thus the simplest form of analysis since the information deals with only one quantity that changes. It does not deal with causes or relationships and the main purpose of the analysis is to describe the data and find patterns that exist within it.
 
-Boxplot and Histogram
+eg. Boxplot and Histogram
 
 Bi-Variate analysis: This type of data involves two different variables. The analysis of this type of data deals with causes and relationships and the analysis is done to find out the relationship among the two variables.
 
-Scatterplot
+eg. Scatterplot
 
 Multi-Variate analysis: When the data involves three or more variables, it is categorized under multivariate.
-Pairplot
+
+eg. Pairplot
 
 
 # Handling Missing Values
@@ -33,6 +34,7 @@ interpolate()
 An Outlier is a data-item/object that deviates significantly from the rest of the (so-called normal)objects. They can be caused by measurement or execution errors. The analysis for outlier detection is referred to as outlier mining. There are many ways to detect the outliers, and the removal process is the data frame same as removing a data item from the panda’s dataframe.
 
 Boxplot
+
 IQR
 
 
@@ -40,6 +42,7 @@ IQR
 For removing the outlier, one must follow the same process of removing an entry from the dataset using its exact position in the dataset because in all the above methods of detecting the outliers end result is the list of all those data items that satisfy the outlier definition according to the method used.
 
 IQR
+
 Variation Inflation Factor(VIF)
 
 
